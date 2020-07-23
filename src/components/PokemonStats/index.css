@@ -1,0 +1,147 @@
+.stats-block {
+  border: 3px solid black;
+  margin-top: 3rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+.text {
+  text-transform: uppercase;
+  margin: 0.5rem 1rem 1rem 1rem;
+  font-size: 20px;
+}
+
+.sprite-stat {
+}
+
+label {
+  text-align: left;
+
+}
+
+span {
+  display: inline-block;
+  width: 150px;
+}
+
+progress {
+  
+}
+
+.progress-bar {
+  background: none;
+  /* margin-top: 4rem; */
+  padding: 0 1rem 1rem 1.5rem;
+  /* padding-left: 50%;
+  padding-right: 50%; */
+}
+
+.height-and-weight {
+  margin: auto;
+  text-align: center;
+  font-size: 18px;
+}
+
+.types-block {
+  text-transform: uppercase;
+  display: inline-block;
+  margin: auto;
+  height: -10%;
+}
+
+.type-block {
+  display: inline-block;
+  padding: 1% 2% 2% 2%;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 2px solid grey;
+  border-radius: 30%;
+  color: #fff;
+  font-size: 1.2vw;
+  font-weight: 600;
+  width: 100%;
+}
+
+.normal {
+  color: #000;
+  background: #fff;
+}
+
+.fighting {
+  background: #ffbf40;
+}
+
+.flying {
+  background: #dcf900;
+  color: #000;
+}
+
+.poison {
+  background: #880045;  
+}
+
+.ground {
+  background: #A64600;
+}
+
+.rock {
+  background: #8b8b8b;
+}
+
+.bug {
+  background: #bdf400;
+}
+
+.ghost {
+  background: #009e8e;
+}
+
+.steel {
+  background: #c0c0c0 ;
+}
+
+.fire {
+  background: #ff3500;
+}
+
+.water {
+  background: #2a17b1;
+}
+
+.grass {
+  background: #67e300;
+}
+
+.electric {
+  background: #c7007d;
+}
+
+.psychic {
+  background: #9fee00;
+}
+
+.ice {
+  background: #2219b2;
+}
+
+.dragon {
+  background: #ff7100;
+}
+
+.dark {
+  background: #1a1a1a;
+  color: #fff
+}
+
+.fairy {
+  background: #d5f800;
+  color: #000;
+}
+
+.unknown {
+  background: #4c4c4c;
+}
+
+.shadow {
+  background: #161616;
+}

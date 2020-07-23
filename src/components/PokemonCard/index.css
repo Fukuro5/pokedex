@@ -1,0 +1,39 @@
+.block {
+  background: rgba(255, 255, 255, 0.4);
+  border: 3px solid;
+  border-radius: 0 20% 20% 20%;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.id-block {
+  display: inline-block;
+  margin-top: 2rem;
+  border: 2.5px solid;
+  border-radius: 20px 20px 0 0;
+  padding: 0.25rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: -0.2rem;
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.id {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+  color: orangered;
+}
+
+.name {
+  font-size: 20px;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: orangered;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.sprite {
+  text-align: center; 
+}

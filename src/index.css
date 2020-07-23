@@ -1,0 +1,21 @@
+body {
+    background: navajowhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orangered;
+    letter-spacing: 0.5px;
+}
+
+.button-block {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.button-page {
+    border: 0;
+    background: none;
+    color: #9400d3;
+}
+
+.poke-page {
+    text-align: center;
+}

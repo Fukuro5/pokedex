@@ -1,0 +1,8 @@
+ul {
+  column-count: 2;
+}
+
+.type {
+  padding-right: 1rem;
+  text-transform: uppercase;
+}
